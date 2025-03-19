@@ -50,7 +50,7 @@ section {
 }
 
 .botao-inicio {
-    background-color: var(--amarelo-mostarda);
+    background-color: var(--amarelo);
     border-radius: 30px;
     border: none;
     width: 14em;
@@ -67,8 +67,6 @@ section {
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url('img/flor.png') top right no-repeat,
-        url('img/flor-esquerda.png') bottom left no-repeat;
     background-size: 180px 180px;
 }
 
@@ -92,7 +90,7 @@ h2 {
 }
 
 .fundo-galeria {
-    background: url('img/flor-bottom-direita.png') bottom right no-repeat;
+
     background-size: 180px 180px;
 }
 
@@ -111,7 +109,7 @@ h2 {
 }
 
 .formulario button {
-    background-color: #CB6D43;
+    background-color: #0c213f;
     border: none;
     font-weight: bold;
 }
