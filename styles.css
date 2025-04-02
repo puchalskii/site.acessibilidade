@@ -24,7 +24,7 @@ section {
 }
 
 .inicio-fundo {
-    background-image: url('img/fundo-viagem.jpg');
+    background-image: url('img/fundoazul.jpeg');
     background-size: cover;
     background-position: right;
     border-radius: 80px;
@@ -79,7 +79,7 @@ section {
 }
 
 h2 {
-    font-family: 'Lemon', serif;
+    font-family: 'Montserrat', serif;
     font-size: 2.5em;
     font-style: normal;
     color: var(--laranja-claro);
